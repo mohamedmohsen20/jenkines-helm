@@ -1,5 +1,5 @@
 # jenkines-helm
 
-#install helm 
+# install helm 
 
 $helm install jenkins stable/jenkins --values values.yaml -namespace jenkins
